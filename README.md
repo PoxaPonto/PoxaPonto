@@ -25,16 +25,6 @@ Git • GitHub • VS Code • Figma
 
 ---
 
-🌟 Projetos em Destaque
-
-🍃 Folha — Página Web  
-Projeto experimental em formato de carta digital, com foco em narrativa visual, minimalismo e experiência do usuário.
-
-🛠️ HTML • CSS • JavaScript  
-📘 <a href="https://github.com/PoxaPonto/poema_singularidade_estudo">Repositorio</a>
-
----
-
 📫 Contato  
 
 🌐 <a href="https://poxadomino.com.br">Linkedin</a> ㅤ
