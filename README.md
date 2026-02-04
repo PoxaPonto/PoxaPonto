@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="left" style="font-size: 48px;">
+  👋 Olá, eu sou Guilherme Cavalcante
+</h1>
 
-<!--
-**PoxaPonto/PoxaPonto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Analista de Sistemas | Cientista de Dados | Entusiasta de Aprendizado de Máquina
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse em criar aplicações web modernas e interativas, com foco em organização de código, animações e boa experiência do usuário. Trabalho principalmente com HTML, CSS e JavaScript, explorando projetos criativos e funcionais.
+
+📍 Brasil, Goiás, Brazil  
+🎓 Analise e Desenvolvimento de Sistemas — Universidade Paulista (UNIP) 
+
+---
+
+🚀 Tech Stack
+
+💻 Linguagens  
+JavaScript • HTML5 • CSS3  
+
+🌐 Frontend  
+JavaScript (Vanilla) • Design Responsivo • Animações CSS  
+
+⚙️ Ferramentas  
+Git • GitHub • VS Code • Figma  
+
+---
+
+🌟 Projetos em Destaque
+
+🍃 Folha — Página Web  
+Projeto experimental em formato de carta digital, com foco em narrativa visual, minimalismo e experiência do usuário.
+
+🛠️ HTML • CSS • JavaScript  
+📘 <a href="https://github.com/PoxaPonto/poema_singularidade_estudo">Repositorio</a>
+
+---
+
+📫 Contato  
+
+🌐 <a href="https://poxadomino.com.br">Linkedin</a> ㅤ
+
+📧 Email: guilhermecavalcantedev@gmail.com 
+
+---
+
+⭐ Se você gostou do que viu, fique à vontade para adicionar meus projetos aos favoritos ou conectar-se comigo no LinkedIn!
