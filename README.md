@@ -1,6 +1,4 @@
-<h1 align="left" style="font-size: 48px;">
-  👋 Olá, eu sou Guilherme Cavalcante
-</h1>
+# 👋 Hi, I'm Guilherme Cavalcante 
 
 
 Analista de Sistemas | Cientista de Dados | Entusiasta de Aprendizado de Máquina
