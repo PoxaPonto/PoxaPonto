@@ -12,7 +12,9 @@ Tenho interesse em criar aplicações web modernas e interativas, com foco em or
 
 ---
 
-🚀 Tech Stack
+<h1 align="left" style="font-size: 10px;">
+  🚀 Tech Stack
+</h1>
 
 💻 Linguagens  
 JavaScript • HTML5 • CSS3  
@@ -25,7 +27,9 @@ Git • GitHub • VS Code • Figma
 
 ---
 
-🌟 Projetos em Destaque
+<h1 align="left" style="font-size: 48px;">
+  🌟 Projetos em Destaque
+</h1>
 
 🍃 Folha — Página Web  
 Projeto experimental em formato de carta digital, com foco em narrativa visual, minimalismo e experiência do usuário.
