@@ -25,9 +25,23 @@ Git • GitHub • VS Code • Figma
 
 ---
 
-📫 Contato  
+🌟 Projetos em Destaque
 
-🌐 <a href="https://poxadomino.com.br">Linkedin</a> ㅤ
+🍃 Folha — Página Web  
+Projeto experimental em formato de carta digital, com foco em narrativa visual, minimalismo e experiência do usuário.
+
+🛠️ HTML • CSS • JavaScript  
+🔗 <a href="https://github.com/PoxaPonto/poema_singularidade_estudo">Repositorio</a>
+
+---
+**Sistema de Chamados (PIM)**  
+   Academic Support Ticket Management System  
+   🔧 C#, .NET, Architecture in Layers, POO  
+   🔗 <a href="https://github.com/PoxaPonto/SistemaChamados.Web">Repositorio</a>
+
+---
+
+🌐 <a href="https://www.linkedin.com/in/guilherme-cavalcante-109a8a363/">Linkedin</a> ㅤ
 
 📧 Email: guilhermecavalcantedev@gmail.com 
 
