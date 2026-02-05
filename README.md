@@ -31,7 +31,7 @@ Git • GitHub • VS Code • Figma
   🌟 Projetos em Destaque
 </h1>
 
-🍃 Folha — Página Web  
+📖 Poema — Página Web  
 Projeto experimental em formato de carta digital, com foco em narrativa visual, minimalismo e experiência do usuário.
 
 🛠️ HTML • CSS • JavaScript  
