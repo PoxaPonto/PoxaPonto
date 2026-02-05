@@ -10,38 +10,36 @@ Tenho interesse em criar aplicações web modernas e interativas, com foco em or
 
 ---
 
-<h1 align="left" style="font-size: 10px;">
-  🚀 Tech Stack
-</h1>
+## 🚀 Tech Stack
 
-💻 Linguagens  
+### 💻 Linguagens  
 JavaScript • HTML5 • CSS3  
 
-🌐 Frontend  
+### 🌐 Frontend  
 JavaScript (Vanilla) • Design Responsivo • Animações CSS  
 
-⚙️ Ferramentas  
+### ⚙️ Ferramentas  
 Git • GitHub • VS Code • Figma  
 
 ---
 
-<h1 align="left" style="font-size: 48px;">
-  🌟 Projetos em Destaque
-</h1>
+## 🌟 Projetos em Destaque
 
- Poema — Página Web  
+ ### 1. **<a href="https://github.com/PoxaPonto?tab=repositories">Poema — Página Web</a>**
 Projeto experimental em formato de carta digital, com foco em narrativa visual, minimalismo e experiência do usuário.
 
 🛠️ HTML • CSS • JavaScript  
 🔗 <a href="https://github.com/PoxaPonto/poema_singularidade_estudo">Repositorio</a>
 
 ---
-**Sistema de Chamados (PIM)**  
-   Academic Support Ticket Management System  
+ ### 2. **<a href="https://github.com/PoxaPonto/SistemaChamados.Web">Sistema de Chamados</a>**
+   O Sistema de Chamados é uma aplicação desenvolvida em C# (.NET) com o objetivo de gerenciar chamados de suporte de forma estruturada e organizada.
    🔧 C#, .NET, Architecture in Layers, POO  
    🔗 <a href="https://github.com/PoxaPonto/SistemaChamados.Web">Repositorio</a>
 
 ---
+
+## 📫 Contact
 
 🌐 <a href="https://www.linkedin.com/in/guilherme-cavalcante-109a8a363/">Linkedin</a> ㅤ
 
