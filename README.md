@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Guilherme Cavalcante 
+# 👋 OI, Eu sou o Guilherme Cavalcante 
 
 
 Analista de Sistemas | Cientista de Dados | Entusiasta de Aprendizado de Máquina
