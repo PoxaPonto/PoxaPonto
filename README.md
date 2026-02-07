@@ -21,6 +21,9 @@ JavaScript (Vanilla) • Design Responsivo • Animações CSS
 ### ⚙️ Ferramentas  
 Git • GitHub • VS Code • Figma  
 
+### 🖌️ Designer
+After Effects • Photoshop • Mosh • lightroom 
+
 ---
 
 ## 🌟 Projetos em Destaque
