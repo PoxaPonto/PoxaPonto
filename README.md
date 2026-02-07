@@ -22,7 +22,7 @@ JavaScript (Vanilla) • Design Responsivo • Animações CSS
 Git • GitHub • VS Code • Figma  
 
 ### 🖌️ Designer
-After Effects • Photoshop • Mosh • lightroom 
+After Effects • Photoshop • Mosh • Lightroom 
 
 ---
 
