@@ -1,53 +1,75 @@
-# 👋 OI, Eu sou o Guilherme Cavalcante 
+# 👋 Olá, eu sou Guilherme Cavalcante
 
+Desenvolvedor Full Stack com foco em ASP.NET Core, C#, React e PostgreSQL.
 
-Analista de Sistemas | Cientista de Dados | Entusiasta de Aprendizado de Máquina
+Atualmente curso Análise e Desenvolvimento de Sistemas pela Universidade Paulista (UNIP) e desenvolvo aplicações web completas, desde a modelagem do banco de dados até a construção de APIs REST e interfaces modernas.
 
-Tenho interesse em criar aplicações web modernas e interativas, com foco em organização de código, animações e boa experiência do usuário. Trabalho principalmente com HTML, CSS e JavaScript, explorando projetos criativos e funcionais.
+Tenho experiência prática no desenvolvimento de sistemas utilizando ASP.NET Core, Entity Framework Core, autenticação JWT, React, PostgreSQL e boas práticas de desenvolvimento de software.
 
-📍 Brasil, Goiás, Brazil  
-🎓 Analise e Desenvolvimento de Sistemas — Universidade Paulista (UNIP) 
-
----
-
-## 🚀 Tech Stack
-
-### 💻 Linguagens  
-JavaScript • HTML5 • CSS3  
-
-### 🌐 Frontend  
-JavaScript (Vanilla) • Design Responsivo • Animações CSS  
-
-### ⚙️ Ferramentas  
-Git • GitHub • VS Code • Figma  
-
-### 🖌️ Designer
-After Effects • Photoshop • Mosh • Lightroom 
+📍 Goiânia, Goiás, Brasil
+🎓 Análise e Desenvolvimento de Sistemas — Universidade Paulista (UNIP)
 
 ---
 
-## 🌟 Projetos em Destaque
+## 🚀 Tecnologias
 
- ### 1. **<a href="https://github.com/PoxaPonto?tab=repositories">Poema — Página Web</a>**
-Projeto experimental em formato de carta digital, com foco em narrativa visual, minimalismo e experiência do usuário.
+### 💻 Linguagens
 
-🛠️ HTML • CSS • JavaScript  
-🔗 <a href="https://github.com/PoxaPonto/poema_singularidade_estudo">Repositorio</a>
+C# • JavaScript • SQL
+
+### ⚙️ Backend
+
+ASP.NET Core • Entity Framework Core • LINQ • JWT Authentication • REST API
+
+### 🌐 Frontend
+
+React • Vite • HTML5 • CSS3 • Axios • React Router DOM
+
+### 🗄️ Banco de Dados
+
+PostgreSQL • SQL Server
+
+### 🛠️ Ferramentas
+
+Git • GitHub • Swagger • Postman • Render • Vercel
 
 ---
- ### 2. **<a href="https://github.com/PoxaPonto/SistemaChamados.Web">Sistema de Chamados</a>**
-   O Sistema de Chamados é uma aplicação desenvolvida em C# (.NET) com o objetivo de gerenciar chamados de suporte de forma estruturada e organizada.
-   🔧 C#, .NET, Architecture in Layers, POO  
-   🔗 <a href="https://github.com/PoxaPonto/SistemaChamados.Web">Repositorio</a>
+
+## 🌟 Projeto em Destaque
+
+### 🥬 Banca Verde
+
+Sistema Full Stack de gerenciamento de estoque desenvolvido com ASP.NET Core, React e PostgreSQL.
+
+#### Funcionalidades
+
+* Autenticação JWT
+* Controle de acesso por perfis (Admin e User)
+* Dashboard analítico
+* Gestão de produtos
+* Gestão de categorias
+* Gestão de usuários
+* Registro de vendas
+* Histórico de movimentações
+* APIs REST versionadas
+* Deploy em produção
+
+#### Tecnologias
+
+ASP.NET Core • C# • React • PostgreSQL • Entity Framework Core • JWT • Axios • Git • Swagger
+
+🔗 Repositório: https://github.com/PoxaPonto/BancaVerde
 
 ---
 
-## 📫 Contact
+## 📫 Contato
 
-🌐 <a href="https://www.linkedin.com/in/guilherme-cavalcante-109a8a363/">Linkedin</a> ㅤ
+🌐 LinkedIn:
+https://www.linkedin.com/in/guilherme-cavalcante-109a8a363/
 
-📧 Email: guilhermecavalcantedev@gmail.com 
+📧 Email:
+[guilhermecavalcantedev@gmail.com](mailto:guilhermecavalcantedev@gmail.com)
 
 ---
 
-⭐ Se você gostou do que viu, fique à vontade para adicionar meus projetos aos favoritos ou conectar-se comigo no LinkedIn!
+⭐ Obrigado por visitar meu perfil! Fique à vontade para conhecer meus projetos e entrar em contato.
