@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=&size=22&pause=1000&color=F7F5F4&width=435&lines=Full+Stack+Developer;Loding...;C%23%7CNode%7CSQL)](https://git.io/typing-svg"/>
+  <img src="https://readme-typing-svg.demolab.com?font=&size=22&pause=1000&color=F7F5F4&width=435&lines=Full+Stack+Developer;Loding...;C%23%7CNode%7CSQL"/>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-cavalcante-109a8a363/)
@@ -19,21 +19,27 @@
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Guilherme, but you can call me Poxa</b></em>, a Full Stack Developer focused on C#, ASP.NET Core, React and modern web technologies. I enjoy learning new technologies, solving problems and building practical projects to improve my skills. Currently, I'm working on personal projects to put my knowledge into practice, exploring backend development, APIs, databases, frontend applications and software infrastructure.
+  Hello There! <em><b> I'm Guilherme, but you can call me Poxa</b></em>, a Full Stack Developer focused on C#, 
+  ASP.NET Core, React and modern web technologies. I enjoy learning new technologies, solving problems and 
+  building practical projects to improve my skills. Currently, I'm working on personal projects to put my 
+  knowledge into practice, exploring backend development, APIs, databases, frontend applications 
+  and software infrastructure.
 </p>
 
 
-<br clear="right">
+<br 
 
-<div align="center">
-<h3>Technologies</h3>
-</div>
+<p align="center">
+  <img src="/imgs/img3.png" width="15"/>   <em><b> Degree in Systems Analysis and Development (BR) </b></em> <br/>
+  <img src="/imgs/img2.png" width="15"/>   <em><b> 4 years of experience as a 2D animator and website design </b></em><br/>
+</p>
 
+<br/>
+<br/>
 ---
 
-<div align="center">
 
-
+<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
 
 ![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=white)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
@@ -53,8 +59,6 @@
 
 </div>
 
-
----
 <div align="center">
 <h3>Thanks for reading</h3>
 </div>
