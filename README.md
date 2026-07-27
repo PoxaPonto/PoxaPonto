@@ -48,7 +48,7 @@ into practice, exploring backend development, APIs, databases, frontend applicat
 
 <p align="center">
   <img src="/imgs/img3.png" width="15"/>
-  <em><b>Degree in Systems Analysis and Development</b></em>
+  <em><b>Degree in Systems Analysis and Development (BR)</b></em>
   <br/>
 
   <img src="/imgs/img2.png" width="15"/>
