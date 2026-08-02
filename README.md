@@ -4,79 +4,68 @@
   <img src="012c134f3468df23b645754aa933aa08.jpg" alt="Banner" width="100%">
 </p>
 
-
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=F7F5F4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Loading...;C%23+%7C+Node+%7C+SQL"/>
 
-</div>
-
-
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-cavalcante-109a8a363/)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermecavalcantedev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=portfolio&logoColor=white)](https://poxarelatividade.com)
 
+</div>
 
 <br/>
 
----
+<hr>
+
+<br/>
 
 <h2 align="center">
   <img src="/imgs/title1.png" width="25"/>
   <em>About me</em>
 </h2>
 
+<br/>
 
-<table>
-<tr>
-
+<img align="right" src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="220"/>
 
 <p>
-Hello There! <em><b>I'm Guilherme, but you can call me Poxa</b></em>, 
+Hello There! <em><b>I'm Guilherme, but you can call me Poxa</b></em>,
 a Full Stack Developer focused on C#, ASP.NET Core, React and modern web technologies.
-I enjoy learning new technologies, solving problems and building practical projects 
-to improve my skills.Currently, I'm working on personal projects to put my knowledge 
+I enjoy learning new technologies, solving problems and building practical projects
+to improve my skills. Currently, I'm working on personal projects to put my knowledge
 into practice, exploring backend development, APIs, databases, frontend applications
- and software infrastructure.
+and software infrastructure.
 </p>
-
 
 <br/>
 
-<p align="center">
-  <img src="/imgs/img3.png" width="15"/>
-  <em><b>Degree in Systems Analysis and Development (BR)</b></em>
-  <br/>
+<p>
+<img src="/imgs/img3.png" width="15"/>
+<em><b>Degree in Systems Analysis and Development (BR)</b></em>
 
-  <img src="/imgs/img2.png" width="15"/>
-  <em><b>4 years of experience as a 2D animator and website design</b></em>
+<br/><br/>
+
+<img src="/imgs/img2.png" width="15"/>
+<em><b>4 years of experience as a 2D animator and website design</b></em>
 </p>
 
-
-</td>
-
-
-<td width="30%" align="center">
-
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="220"/>
-
-
-
+<br clear="right"/>
 
 <br/>
 
----
+<hr>
+
+<br/>
 
 <h2 align="center">
   <img src="/imgs/title2.png" width="25"/>
   <em>Technologies</em>
 </h2>
 
-
 <br/>
 
+<div align="center">
 
 ![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=white)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
@@ -94,15 +83,16 @@ into practice, exploring backend development, APIs, databases, frontend applicat
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-black?style=for-the-badge&logo=pfsense&logoColor=white)
 
+</div>
 
 <br/>
-<br/>
 
+<hr>
+
+<br/>
 
 <div align="center">
 
 <h3>Thanks for reading</h3>
-
-</div>
 
 </div>
