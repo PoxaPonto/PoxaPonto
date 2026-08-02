@@ -27,44 +27,21 @@
   <em>About me</em>
 </h2>
 
-
-<table>
-<tr>
-
-<td width="70%">
-
+<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<br/>
 
 <p>
-Hello There! <em><b>I'm Guilherme, but you can call me Poxa</b></em>, 
-a Full Stack Developer focused on C#, ASP.NET Core, React and modern web technologies.
-I enjoy learning new technologies, solving problems and building practical projects 
-to improve my skills.Currently, I'm working on personal projects to put my knowledge 
-into practice, exploring backend development, APIs, databases, frontend applications
- and software infrastructure.
+  Hello There! <em><b>I'm Guilherme, but you can call me Poxa</b></em>, a Full Stack Developer focused on C#, ASP.NET Core, React and modern web technologies. I enjoy learning new technologies, solving problems and building practical projects 
+to improve my skills.Currently, I'm working on personal projects to put my knowledge into practice, exploring backend development, APIs, databases, frontend applications and software infrastructure.
 </p>
 
 
 <br/>
 
 <p align="center">
-  <img src="/imgs/img3.png" width="15"/>
-  <em><b>Degree in Systems Analysis and Development (BR)</b></em>
-  <br/>
-
-  <img src="/imgs/img2.png" width="15"/>
-  <em><b>4 years of experience as a 2D animator and website design</b></em>
+   <img src="/imgs/img3.png" width="15"/>   <em><b> Degree in Systems Analysis and Development (BR) </b></em> <br/>
+   <img src="/imgs/img2.png" width="15"/>   <em><b> years of experience as a 2D animator and website design</b></em><br/>
 </p>
-
-
-</td>
-
-
-<td width="30%" align="center">
-
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="220"/>
-
-</td>
-
 
 </tr>
 </table>
