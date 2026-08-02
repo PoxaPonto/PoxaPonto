@@ -21,7 +21,6 @@
 
 <br/>
 
----
 
 <h2 align="center">
   <img src="/imgs/title1.png" width="25"/>
@@ -73,7 +72,7 @@ into practice, exploring backend development, APIs, databases, frontend applicat
 
 <br/>
 
----
+
 
 <h2 align="center">
   <img src="/imgs/title2.png" width="25"/>
