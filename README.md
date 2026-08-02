@@ -32,7 +32,6 @@
 <table>
 <tr>
 
-<td width="0%">
 
 <p>
 Hello There! <em><b>I'm Guilherme, but you can call me Poxa</b></em>, 
@@ -63,11 +62,7 @@ into practice, exploring backend development, APIs, databases, frontend applicat
 
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="220"/>
 
-</td>
 
-
-</tr>
-</table>
 
 
 <br/>
