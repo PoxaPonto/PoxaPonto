@@ -32,7 +32,7 @@
 <table>
 <tr>
 
-<td width="70%">
+<td width="0%">
 
 <p>
 Hello There! <em><b>I'm Guilherme, but you can call me Poxa</b></em>, 
