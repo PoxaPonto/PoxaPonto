@@ -31,8 +31,7 @@
 <br/>
 
 <p>
-  Hello There! <em><b>I'm Guilherme, but you can call me Poxa</b></em>, a Full Stack Developer focused on C#, ASP.NET Core, React and modern web technologies. I enjoy learning new technologies, solving problems and building practical projects 
-to improve my skills.Currently, I'm working on personal projects to put my knowledge into practice, exploring backend development, APIs, databases, frontend applications and software infrastructure.
+  Hello There! <em><b>I'm Guilherme, but you can call me Poxa</b></em>, a Full Stack Developer focused on C#, ASP.NET Core, React and modern web technologies. I enjoy learning new technologies, solving problems and building practical projects to improve my skills.Currently, I'm working on personal projects to put my knowledge into practice, exploring backend development, APIs, databases, frontend applications and software infrastructure.
 </p>
 
 
