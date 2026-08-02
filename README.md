@@ -21,7 +21,7 @@
 
 <br/>
 
----
+
 
 <h2 align="center">
   <img src="/imgs/title1.png" width="25"/>
@@ -35,14 +35,11 @@
 <td width="70%">
 
 <p>
-Hello There! <em><b>I'm Guilherme, but you can call me Poxa</b></em>, 
-a Full Stack Developer focused on C#, ASP.NET Core, React and modern web technologies.
+  Hello There! <em><b>I'm Guilherme, but you can call me Poxa</b></em>, a Full Stack Developer focused on C#, ASP.NET Core, React and modern web technologies. I enjoy learning new technologies, solving problems and building practical projects to improve my skills.Currently, I'm working on personal projects to put my knowledge into practice, exploring backend development, APIs, databases, frontend applications and software infrastructure.
+</p>
 
-I enjoy learning new technologies, solving problems and building practical projects 
-to improve my skills.
-
-Currently, I'm working on personal projects to put my knowledge into practice, 
-exploring backend development, APIs, databases, frontend applications and software infrastructure.
+<p>
+Beyond software development, I'm also a 2D Animator and Motion Designer with over four years of experience creating digital experiences. My work includes logo animations, branding, website interfaces, illustrations, and motion graphics. I'm passionate about combining creativity and technology to build projects that are not only functional but also visually engaging, using tools like Adobe After Effects, Photoshop, and Illustrator
 </p>
 
 
@@ -74,7 +71,6 @@ exploring backend development, APIs, databases, frontend applications and softwa
 
 <br/>
 
----
 
 <h2 align="center">
   <img src="/imgs/title2.png" width="25"/>
@@ -106,8 +102,6 @@ exploring backend development, APIs, databases, frontend applications and softwa
 
 <br/>
 <br/>
-
----
 
 <div align="center">
 
