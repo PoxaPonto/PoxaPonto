@@ -21,7 +21,7 @@
 
 <br/>
 
----
+
 
 <h2 align="center">
   <img src="/imgs/title1.png" width="25"/>
@@ -55,7 +55,7 @@ into practice, exploring backend development, APIs, databases, frontend applicat
   <em><b>4 years of experience as a 2D animator and website design</b></em>
 </p>
 
----
+
 
 <h2 align="center">
   <img src="/imgs/title2.png" width="25"/>
