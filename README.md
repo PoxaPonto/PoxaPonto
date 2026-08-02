@@ -29,15 +29,8 @@
 </h2>
 
 
-<table>
-<tr>
-
-<td width="70%">
-
-
-
 <p align="left">
-  <img src="cat.svg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
+  <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="220"/>
   <div>
 
   Hi! I'm <b>Hello There! <em><b>I'm Guilherme, but you can call me Poxa</b></em>, 
@@ -62,23 +55,6 @@ into practice, exploring backend development, APIs, databases, frontend applicat
   <img src="/imgs/img2.png" width="15"/>
   <em><b>4 years of experience as a 2D animator and website design</b></em>
 </p>
-
-
-</td>
-
-
-<td width="30%" align="center">
-
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="220"/>
-
-</td>
-
-
-</tr>
-</table>
-
-
-<br/>
 
 ---
 
