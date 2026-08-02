@@ -32,8 +32,7 @@
 <p align="left">
   <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="220"/>
   <div>
-
-  Hi! I'm <b>Hello There! <em><b>I'm Guilherme, but you can call me Poxa</b></em>, 
+ Hi! I'm <b>Hello There! <em><b>I'm Guilherme, but you can call me Poxa</b></em>, 
 a Full Stack Developer focused on C#, ASP.NET Core, React and modern web technologies.
 I enjoy learning new technologies, solving problems and building practical projects 
 to improve my skills.Currently, I'm working on personal projects to put my knowledge 
