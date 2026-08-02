@@ -21,7 +21,7 @@
 
 <br/>
 
----
+
 
 <h2 align="center">
   <img src="/imgs/title1.png" width="25"/>
@@ -32,7 +32,7 @@
 <table>
 <tr>
 
-<td width="70%">
+
 
 <p>
 Hello There! <em><b>I'm Guilherme, but you can call me Poxa</b></em>, 
@@ -56,7 +56,7 @@ into practice, exploring backend development, APIs, databases, frontend applicat
 </p>
 
 
-</td>
+
 
 
 <td width="30%" align="center">
